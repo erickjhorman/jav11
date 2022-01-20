@@ -4,7 +4,7 @@ public class XLetter {
     public static int[][] createX(int n) {
         if (n == 0) {
             System.out.println("ERROR");
-            System.out.println("ERROR");
+            int h = 0;
         }
         int[][] a = {{6, 7, 5, 0, 4}, {3, 8, 4}, {1, 0, 2, 7}, {9, 5}};
         //System.out.println("Valores en fila 1 y columna 5 " + a[3][0]);
