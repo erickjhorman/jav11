@@ -1,0 +1,9 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "str".(¥²‡¯
+>
+java:S1481"(Remove this unused "str" local variable.(¥²‡¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì°æ´ûÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'javastreamdebugger.Employee'.(ßÎÅ±

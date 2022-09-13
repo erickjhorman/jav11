@@ -1,0 +1,68 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(Ò´êøøÿÿÿÿ
+
+java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸõÑœşÿÿÿÿ
+Q
+java:S1854Ÿ":Remove this useless assignment to local variable "sorted".(¼ô‰©
+R
+java:S1854";Remove this useless assignment to local variable "letters".(ÁØ§Ç
+S
+java:S1854"7Remove this useless assignment to local variable "fin".(Ò´êøøÿÿÿÿ
+P
+java:S1854…"9Remove this useless assignment to local variable "array".(—Îû„
+R
+java:S1854_"7Remove this useless assignment to local variable "set".(í‡âúÿÿÿÿ
+N
+java:S1854Z"8Remove this useless assignment to local variable "list".(åÍ¾Ú
+Q
+java:S1854";Remove this useless assignment to local variable "females".(ÒËéË
+B
+java:S1481"'Remove this unused "cS" local variable.(Õì–¬ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(­ªò¬
+B
+java:S1481",Remove this unused "females" local variable.(ÒËéË
+Q	java:S125"<This block of commented-out lines of code should be removed.(²ŠÑØ
+Q	java:S125""<This block of commented-out lines of code should be removed.(ª™¨¹
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ÉåÕ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(•‰Å³ûÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ÏÃıš
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(¹áçŞúÿÿÿÿ
+U
+java:S1612J"@Replace this lambda with method reference 'System.out::println'.(ÀË‘V
+M	java:S106J"9Replace this use of System.out or System.err by a logger.(ÀË‘V
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(ª™¨¹
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ı¿ÆÕúÿÿÿÿ
+?
+java:S1481Z")Remove this unused "list" local variable.(åÍ¾Ú
+C
+java:S1481_"(Remove this unused "set" local variable.(í‡âúÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(£ÕñÎûÿÿÿÿ
+V	java:S125j"<This block of commented-out lines of code should be removed.( šìıüÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(£ÕñÎûÿÿÿÿ
+A
+java:S1481…"*Remove this unused "array" local variable.(—Îû„
+F
+java:S2201‰"*The return value of "length" must be used.(Ú±’úÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+N	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ÿ®Ái
+D
+java:S1481"(Remove this unused "fin" local variable.(Ò´êøøÿÿÿÿ
+C
+java:S1481",Remove this unused "letters" local variable.(ÁØ§Ç
+N	java:S106™"9Replace this use of System.out or System.err by a logger.(»ã¢)
+B
+java:S1481Ÿ"+Remove this unused "sorted" local variable.(¼ô‰©
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(Û°Å¬ıÿÿÿÿ
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(ˆİ’Ô
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(ÌÅÖòûÿÿÿÿ
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(÷ÓÓÜ
+I
+java:S1481»"-Remove this unused "greeting" local variable.(Äº³ùÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'jdk.swing.interop.SwingInterOpUtils'.(ñ©Ìë
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š

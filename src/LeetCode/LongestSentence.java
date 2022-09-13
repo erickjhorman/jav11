@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 public class LongestSentence {
     public static void main(String[] args) {
-        System.out.println(longestSentence("We test coders. Give us a try? Hola. Hola como estas hoy mi hermosa!"));
+        System.out.println(longestSentence("We com.java.test coders. Give us a try? Hola. Hola como estas hoy mi hermosa!"));
     }
 
     private static int longestSentence(String S) {

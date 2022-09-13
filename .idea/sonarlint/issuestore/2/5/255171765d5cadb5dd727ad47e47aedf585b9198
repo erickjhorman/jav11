@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+E
+java:S5869"*Remove duplicates in this character class.(íÏ²”ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿Çˆï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›çú 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÝ’Ô
+V	java:S125"<This block of commented-out lines of code should be removed.(¯›™Ÿùÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(¯›™Ÿùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ

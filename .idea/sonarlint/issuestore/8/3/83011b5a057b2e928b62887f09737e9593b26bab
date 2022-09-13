@@ -1,0 +1,14 @@
+
+E
+java:S3740	"/Provide the parametrized type for this generic.(ž™ùë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖØƒøÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "max".(¾Îˆ‰üÿÿÿÿ
+C
+java:S1481"(Remove this unused "max" local variable.(¾Îˆ‰üÿÿÿÿ
+D
+java:S5413")Verify that "remove()" is used correctly.(ñ¡†úÿÿÿÿ
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¹åå¨
+0
+java:S1220""Move this file to a named package.
