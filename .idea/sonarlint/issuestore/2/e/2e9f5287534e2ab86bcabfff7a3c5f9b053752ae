@@ -1,0 +1,42 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(õŠøÍúÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(õŠøÍúÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ù·Åüÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àúö½úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+q
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(—ù·Åüÿÿÿÿ
+q
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Àúö½úÿÿÿÿ
+K
+java:S1854%"5Remove this useless assignment to local variable "k".(´Ç”½
+P
+java:S1854"":Remove this useless assignment to local variable "prices".(Õã¨ê
+U
+java:S1854":Remove this useless assignment to local variable "common".(õŠøÍúÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "noteTable".(Àúö½úÿÿÿÿ
+I
+java:S1481".Remove this unused "noteTable" local variable.(Àúö½úÿÿÿÿ
+F
+java:S1481"+Remove this unused "common" local variable.(õŠøÍúÿÿÿÿ
+@
+java:S1197""*Move the array designators [] to the type.(Õã¨ê
+V	java:S125"<This block of commented-out lines of code should be removed.(²ÿ„øÿÿÿÿ
+A
+java:S1481""+Remove this unused "prices" local variable.(Õã¨ê
+<
+java:S1481%"&Remove this unused "k" local variable.(´Ç”½
+Q	java:S125("<This block of commented-out lines of code should be removed.(ô›­—
+V	java:S125."<This block of commented-out lines of code should be removed.(ƒÍ’¨ıÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(ş¹èøüÿÿÿÿ
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8çÒ¨ı§0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8èÒ¨ı§0
+V
+java:S1128"4Remove this unused import 'java.util.Arrays.stream'.(Â´’¨ıÿÿÿÿ8èÒ¨ı§0

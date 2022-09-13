@@ -1,0 +1,38 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "aux3".(æ¶æúøÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "aux2".(¤³Ôàûÿÿÿÿ
+R
+java:S1854Y"7Remove this useless assignment to local variable "max".(³æ“²ûÿÿÿÿ
+D
+java:S1481")Remove this unused "aux2" local variable.(¤³Ôàûÿÿÿÿ
+D
+java:S1481")Remove this unused "aux3" local variable.(æ¶æúøÿÿÿÿ
+E
+java:S1481"*Remove this unused "count" local variable.(šüñÔøÿÿÿÿ
+C
+java:S1481"(Remove this unused "pos" local variable.(˜ÁÈÀıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(»£Óß
+V	java:S125<"<This block of commented-out lines of code should be removed.(ƒ‡¸ûÿÿÿÿ
+Q	java:S125C"<This block of commented-out lines of code should be removed.(Ô¸—³
+V	java:S125N"<This block of commented-out lines of code should be removed.(’ Šùÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(Î‹¢Ûúÿÿÿÿ
+E
+java:S1611V"/Remove the parentheses around the "k" parameter(‡ë¿ú
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(‡ë¿ú
+@
+java:S2201W"*The return value of "reduce" must be used.(Æ†¶•
+R
+java:S1612W"<Replace this lambda with method reference 'Entry::getValue'.(Æ†¶•
+C
+java:S1481Y"(Remove this unused "max" local variable.(³æ“²ûÿÿÿÿ
+C
+java:S2201["(The return value of "size" must be used.(»³ù—ûÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¹¦…‡úÿÿÿÿ
+[
+java:S1128"ERemove this unused import 'jdk.dynalink.linker.ConversionComparator'.(Ëô«›
+0
+java:S1220""Move this file to a named package.
+k
+java:S3655Y"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(³æ“²ûÿÿÿÿ

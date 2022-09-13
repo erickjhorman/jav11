@@ -39,7 +39,7 @@ public class D2ArrayDS {
                 //System.out.println(sum);
             }
             System.out.println(finalSum.toString());
-            //Integer sum = test.get(i).stream().reduce(0, Integer::sum);
+            //Integer sum = com.java.test.get(i).stream().reduce(0, Integer::sum);
             //System.out.println(sum);
         }
 

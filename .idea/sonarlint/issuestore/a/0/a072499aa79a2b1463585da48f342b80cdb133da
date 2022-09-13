@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(״ Êחüÿÿÿÿ
+>
+java:S1659
+"#Declare "count" on a separate line.(דפלÿשÿÿÿÿ
+L
+java:S1481
+"*Remove this unused "count" local variable.(דפלÿשÿÿÿÿ8ƒüפ‰€0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ב÷´תÿÿÿÿ
